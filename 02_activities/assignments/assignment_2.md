@@ -10,12 +10,12 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Good vis: 
+      Good vis (good_vis.png): 
         Substantive: The visualization uses a clear baseline (the 20th-century average), which allows for accurate comparison of temperatures across different years. The scale is also clearly labeled in degrees Fahrenheit (°F).
 
         Perceptual: The visualization effectively uses a gradient of colors to represent temperature differences. In addition to comparing each year's temperature to the baseline, a bar plot illustrates the trend of temperature changes over the years. The hottest year, 2015, is prominently emphasized with a thicker line, clearly highlighting the main message of the visualization. Furthermore, the layout of the subplots supports the focus on identifying the hottest year: the line plot occupies the primary space, while the bar plot occupies a smaller area.
 
-      Bad vis: 
+      Bad vis (bad_vis.png): 
         Perceptual: The main issue is the discontinuity between seasons. The dashed line appears to suggest continuity where there is a gap, but its distinction from the solid line is not explained in a legend. It is unclear whether the dashed line represents predicted or fabricated data. Additionally, the data source is not specified. The color scheme may also be problematic: using red for season 5 could unnecessarily draw attention there, while the actual focus might be on season 6.
 
         Substantive (accuracy): The term 'demand expressions' on the y-axis is not clearly defined or intuitive for readers.
