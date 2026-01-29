@@ -10,24 +10,29 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good vis (good_vis.png): 
+        Substantive: The visualization uses a clear baseline (the 20th-century average), which allows for accurate comparison of temperatures across different years. The scale is also clearly labeled in degrees Fahrenheit (°F).
 
+        Perceptual: The visualization effectively uses a gradient of colors to represent temperature differences. In addition to comparing each year's temperature to the baseline, a bar plot illustrates the trend of temperature changes over the years. The hottest year, 2015, is prominently emphasized with a thicker line, clearly highlighting the main message of the visualization. Furthermore, the layout of the subplots supports the focus on identifying the hottest year: the line plot occupies the primary space, while the bar plot occupies a smaller area.
 
+      Bad vis (bad_vis.png): 
+        Perceptual: The main issue is the discontinuity between seasons. The dashed line appears to suggest continuity where there is a gap, but its distinction from the solid line is not explained in a legend. It is unclear whether the dashed line represents predicted or fabricated data. Additionally, the data source is not specified. The color scheme may also be problematic: using red for season 5 could unnecessarily draw attention there, while the actual focus might be on season 6.
 
-
-
-
-
+        Substantive (accuracy): The term 'demand expressions' on the y-axis is not clearly defined or intuitive for readers.
+        
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Good vis:
+      1. The data source should be clearly provided.
+      2. It is unclear what years the other lines in the plot represent. To improve clarity, label several key comparator years.
+      3. The numerous faint lines can create visual clutter and increase cognitive load. To make the visualization easier to read, consider plotting average lines for every 10 or 20 years instead.
 
-
-
-
-
-
+      Bad vis:
+      1. Clearly cite the data source.
+      2. Use more descriptive and straightforward labels for the y-axis to improve clarity.
+      3. Include a legend to explain the meaning of the dashed line.
+      4. Use a white background for better color accessibility, increase the line widths, and fill the gap between the two lines to emphasize the difference.
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
